@@ -1,0 +1,9 @@
+.cover__background {
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-image: url(../../../images/cover/cover-trains.jpg);
+    max-width: 1184px;
+    width: calc(100vw - 17px);
+    margin: auto;
+}

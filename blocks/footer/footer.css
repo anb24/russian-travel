@@ -1,0 +1,13 @@
+.footer {
+    background-color: #2A2C2F;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 24px;
+}
+
+@media (max-width : 320px) {
+    .footer {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,15 @@
+.place__paragraphs {
+    align-self: start;
+}
+
+@media (max-width : 674px) {
+    .place__paragraphs {
+        order: 1;
+    }
+}
+
+@media (max-width : 320px) {
+    .place__paragraphs {
+        order: 1;
+    }
+}

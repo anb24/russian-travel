@@ -1,0 +1,26 @@
+.intro {
+    background-color: #2A2C2F;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 148px;
+}
+
+@media (max-width : 1024px) {
+    .intro {
+        padding: 48px;
+    }
+}
+
+@media (max-width : 768px) {
+    .intro {
+        padding: 0 24px 0;
+    }
+}
+
+@media (max-width : 320px) {
+    .intro {
+        padding: 0 16px 0;
+    }
+}
