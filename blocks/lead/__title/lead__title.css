@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .lead__title {
     max-width: 720px;
     width: 100%;
@@ -29,3 +30,36 @@
         line-height: 44px;
     }
 }
+=======
+.lead__title {
+    max-width: 720px;
+    width: 100%;
+    padding-top: 56px;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    text-align: center;
+    margin: 0;
+}
+
+@media (max-width : 1024px) {
+    .lead__title {
+        padding-top: 48px;
+    }
+}
+
+@media (max-width : 700px) {
+    .lead__title {
+        font-size: 50px;
+        line-height: 54px;
+    }
+}
+
+@media (max-width : 375px) {
+    .lead__title {
+        font-size: 40px;
+        line-height: 44px;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

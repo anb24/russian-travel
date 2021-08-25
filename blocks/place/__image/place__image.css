@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__image {
     max-width: 460px;
 }
@@ -25,3 +26,32 @@
         order: 1;
     }
 }
+=======
+.place__image {
+    max-width: 460px;
+}
+
+@media (max-width : 1124px) {
+    .place__image {
+        max-width: 440px;
+    }
+}
+
+@media (max-width : 880px) {
+    .place__image {
+        width: 340px;
+    }
+}
+
+@media (max-width : 766px) {
+    .place__image {
+        width: 320px;
+    }
+}
+
+@media (max-width : 674px) {
+    .place__image {
+        order: 1;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

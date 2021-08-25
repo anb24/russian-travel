@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__lang-link {
     color: #FFFFFF;
     text-decoration: none;
@@ -31,3 +32,38 @@
         transition: 1s;
     }
 }
+=======
+.header__lang-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    padding-left: 18px;
+    list-style-type: none;
+}
+
+.header__lang-link:hover {
+    opacity: 50%;
+    font-size: 22px;
+    transition: 1s;
+}
+
+.header__lang-link:first-child {
+    padding-left: 0;
+}
+
+@media (max-width : 400px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .header__lang-link:hover {
+        opacity: 50%;
+        font-size: 16px;
+        transition: 1s;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

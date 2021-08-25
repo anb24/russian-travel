@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover {
     background-color: #2A2C2F;
     color: white;
@@ -14,4 +15,22 @@
     .cover {
         padding: 66px 0 64px;
     }
+=======
+.cover {
+    background-color: #2A2C2F;
+    color: white;
+    padding: 92px 0;
+}
+
+@media (max-width : 768px) {
+    .cover {
+        padding: 90px 0 88px;
+    }
+}
+
+@media (max-width : 320px) {
+    .cover {
+        padding: 66px 0 64px;
+    }
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f
 }

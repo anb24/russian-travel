@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__links {
     padding: 46px 48px 0 0;
     display: flex;
@@ -14,3 +15,21 @@
         padding: 30px 16px 0 0;
     }
 }
+=======
+.header__links {
+    padding: 46px 48px 0 0;
+    display: flex;
+}
+
+@media (max-width : 768px) {
+    .header__links {
+        padding: 46px 24px 0 0;
+    }
+}
+
+@media (max-width : 400px) {
+    .header__links {
+        padding: 30px 16px 0 0;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

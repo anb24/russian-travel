@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .intro__title {
     padding-top: 92px;
     margin: 0;
@@ -20,4 +21,28 @@
         font-size: 32px;
         line-height: 35px;
     }
+=======
+.intro__title {
+    padding-top: 92px;
+    margin: 0;
+    max-width: 690px;
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+}
+
+@media (max-width : 768px) {
+    .intro__title {
+        padding-top: 88px;
+    }
+}
+
+@media (max-width : 355px) {
+    .intro__title {
+        padding-top: 64px;
+        font-size: 32px;
+        line-height: 35px;
+    }
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f
 }

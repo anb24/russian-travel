@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__link {
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
@@ -10,4 +11,18 @@
     opacity: 80%;
     font-size: 19px;
     transition: 1s;
+=======
+.place__link {
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: white;
+}
+
+.place__link:hover {
+    opacity: 80%;
+    font-size: 19px;
+    transition: 1s;
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f
 }

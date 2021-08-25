@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__subtitle {
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
@@ -15,3 +16,22 @@
         padding-top: 16px;
     }
 }
+=======
+.cover__subtitle {
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    max-width: 360px;
+    margin: 0;
+    padding-top: 32px;
+}
+
+@media (max-width : 368px) {
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+        padding-top: 16px;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__nav {
     padding-left: 48px;
     display: flex;
@@ -17,3 +18,24 @@
         padding-bottom: 48px;
     }
 }
+=======
+.footer__nav {
+    padding-left: 48px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width : 768px) {
+    .footer__nav {
+        padding-left: 24px;
+    }
+}
+
+@media (max-width : 490px) {
+    .footer__nav {
+        flex-direction: column;
+        padding-left: 16px;
+        padding-bottom: 48px;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

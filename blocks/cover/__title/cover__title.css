@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cover__title {
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: 900;
@@ -20,3 +21,27 @@
         line-height: 35px;
     }
 }
+=======
+.cover__title {
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    max-width: 560px;
+    margin: 0;
+}
+
+@media (max-width : 530px) {
+    .cover__title {
+        font-size: 50px;
+        line-height: 53px;
+    }
+}
+
+@media (max-width : 368px) {
+    .cover__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
+>>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f
