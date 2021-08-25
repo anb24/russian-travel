@@ -2,7 +2,7 @@
     text-decoration: none;
     color: white;
     padding-right: 18px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
     font-size: 16px;
     line-height: 18px
@@ -10,18 +10,11 @@
 
 .footer__link:hover {
     opacity: 80%;
+    font-size: 18px;
+    transition: 1s;
 }
 
 @media (max-width : 490px) {
-    .footer__link {
-        padding-bottom: 32px;
-    }
-    .footer__link:last-child {
-        padding-bottom: 0px;
-    }
-}
-
-@media (max-width : 320px) {
     .footer__link {
         padding-bottom: 32px;
     }

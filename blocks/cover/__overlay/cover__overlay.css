@@ -29,12 +29,6 @@
 
 @media (max-width : 368px) {
     .cover__overlay {
-        min-height: 300px;
-    }
-}
-
-@media (max-width : 320px) {
-    .cover__overlay {
         min-height: 200px;
     }
 }
