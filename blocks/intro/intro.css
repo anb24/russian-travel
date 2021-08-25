@@ -9,7 +9,7 @@
 
 @media (max-width : 1024px) {
     .intro {
-        padding: 48px;
+        padding-left: 48px;
     }
 }
 
