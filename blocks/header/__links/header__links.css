@@ -3,13 +3,13 @@
     display: flex;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .header__links {
         padding: 46px 24px 0 0;
     }
 }
 
-@media (max-width : 400px) {
+@media (max-width: 400px) {
     .header__links {
         padding: 30px 16px 0 0;
     }

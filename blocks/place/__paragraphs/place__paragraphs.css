@@ -2,13 +2,13 @@
     align-self: start;
 }
 
-@media (max-width : 674px) {
+@media (max-width: 674px) {
     .place__paragraphs {
         order: 1;
     }
 }
 
-@media (max-width : 370px) {
+@media (max-width: 370px) {
     .place__paragraphs {
         padding: 0 16px 0;
     }

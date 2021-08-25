@@ -8,13 +8,13 @@
     line-height: 58px;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .intro__title {
         padding-top: 88px;
     }
 }
 
-@media (max-width : 355px) {
+@media (max-width: 355px) {
     .intro__title {
         padding-top: 64px;
         font-size: 32px;

@@ -2,13 +2,13 @@
     max-width: calc(100% - 296px);
 }
 
-@media (max-width : 1024px) {
+@media (max-width: 1024px) {
     .lead__image {
         max-width: calc(100% - 96px);
     }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .lead__image {
         max-width: 100%;
     }

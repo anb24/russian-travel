@@ -14,21 +14,21 @@
     padding-bottom: 0;
 }
 
-@media (max-width : 1124px) {
+@media (max-width: 1124px) {
     .place {
         column-gap: 32px;
         padding: 0 48px 80px;
     }
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .place {
         column-gap: 28px;
         padding: 0 24px 73px;
     }
 }
 
-@media (max-width : 674px) {
+@media (max-width: 674px) {
     .place {
         grid-auto-flow: row;
         gap: 32px;
@@ -36,7 +36,7 @@
     }
 }
 
-@media (max-width : 320px) {
+@media (max-width: 320px) {
     .place {
         grid-auto-flow: row;
         gap: 32px;

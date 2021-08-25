@@ -13,13 +13,13 @@
     padding-bottom: 0;
 }
 
-@media (max-width : 1124px) {
+@media (max-width: 1124px) {
     .place__paragraph {
         padding-bottom: 27px;
     }
 }
 
-@media (max-width : 880px) {
+@media (max-width: 880px) {
     .place__paragraph {
         padding-bottom: 25px;
         font-size: 16px;

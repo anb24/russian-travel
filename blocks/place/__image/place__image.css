@@ -2,25 +2,25 @@
     max-width: 460px;
 }
 
-@media (max-width : 1124px) {
+@media (max-width: 1124px) {
     .place__image {
         max-width: 440px;
     }
 }
 
-@media (max-width : 880px) {
+@media (max-width: 880px) {
     .place__image {
         width: 340px;
     }
 }
 
-@media (max-width : 766px) {
+@media (max-width: 766px) {
     .place__image {
         width: 320px;
     }
 }
 
-@media (max-width : 674px) {
+@media (max-width: 674px) {
     .place__image {
         order: 1;
     }

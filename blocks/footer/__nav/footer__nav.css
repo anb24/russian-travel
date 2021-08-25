@@ -4,13 +4,13 @@
     flex-wrap: wrap;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .footer__nav {
         padding-left: 24px;
     }
 }
 
-@media (max-width : 490px) {
+@media (max-width: 490px) {
     .footer__nav {
         flex-direction: column;
         padding-left: 16px;
