@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .place__paragraph {
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
@@ -27,33 +26,3 @@
     }
 }
 
-=======
-.place__paragraph {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 163%;
-    max-width: 484px;
-    width: 100%;
-    margin: 0;
-    padding-bottom: 26px;
-}
-
-.place__paragraph:last-child {
-    padding-bottom: 0;
-}
-
-@media (max-width : 1124px) {
-    .place__paragraph {
-        padding-bottom: 27px;
-    }
-}
-
-@media (max-width : 880px) {
-    .place__paragraph {
-        padding-bottom: 25px;
-        font-size: 16px;
-    }
-}
-
->>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

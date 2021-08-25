@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .place__url-heading {
     font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
@@ -10,16 +9,3 @@
     letter-spacing: 2px;
     text-transform: uppercase;
 }
-=======
-.place__url-heading {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 12px;
-    color: #AAAAAA;
-    margin: 0;
-    padding-bottom: 12px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-}
->>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f

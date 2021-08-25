@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 .intro__list {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+    font-fam
+    ily: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal;
     font-size: 12px;
     line-height: 18px;
@@ -13,20 +13,4 @@
     .intro__list {
         padding: 34px 0 0 0;
     }
-=======
-.intro__list {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    font-weight: normal;
-    font-size: 12px;
-    line-height: 18px;
-    list-style-type: none;
-    padding: 33px 0 0 0;
-    margin: 0;
-}
-
-@media (max-width : 320px) { /*возможно этот медиазапрос не нужен*/
-    .intro__list {
-        padding: 34px 0 0 0;
-    }
->>>>>>> b46c5800122c61122ed33ac137eb60fb825c368f
 }
