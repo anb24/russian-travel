@@ -1,0 +1,8 @@
+.header__list {
+    list-style-type: none;
+    padding-left: 18px;
+}
+
+.header__list:first-child {
+    padding-left: 0;
+}

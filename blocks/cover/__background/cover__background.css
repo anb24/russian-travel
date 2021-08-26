@@ -7,3 +7,9 @@
     width: calc(100vw - 17px);
     margin: auto;
 }
+
+@media (max-width: 768px) {
+    .cover__background {
+        width: 100%;
+    }
+}

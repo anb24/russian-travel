@@ -1,5 +1,6 @@
 .header__links {
     padding: 46px 48px 0 0;
+    margin: 0;
     display: flex;
 }
 

@@ -1,8 +1,3 @@
 .page {
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    min-width: 320px;
-    max-width: 1280px;
-    margin: 0 auto;
-    width: 100%;
-    text-rendering: optimizeLegibility;
+    background-color: #2A2C2F;
 }
