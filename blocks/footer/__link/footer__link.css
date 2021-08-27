@@ -10,7 +10,6 @@
 
 .footer__link:hover {
     opacity: 80%;
-    font-size: 18px;
     transition: 1s;
 }
 

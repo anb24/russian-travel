@@ -8,6 +8,5 @@
 
 .place__link:hover {
     opacity: 80%;
-    font-size: 19px;
     transition: 1s;
 }
